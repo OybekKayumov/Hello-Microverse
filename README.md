@@ -7,8 +7,8 @@
 
 ## 👤 Author
 
-- GitHub: [@githubhandle](https://github.com/OybekKayumov)
-- Twitter: [@twitterhandle](https://twitter.com/KayumovOybek)
+- GitHub: [@OybekKayumov](https://github.com/OybekKayumov)
+- Twitter: [@KayumovOybek](https://twitter.com/KayumovOybek)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/oybek-kayumov-54a8485b/)
 
 
