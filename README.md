@@ -1,13 +1,11 @@
 # Hello-Microverse
 
-##Getting Started
+## Getting Started
 
-##Setup
-##Usage
+## Setup
+## Usage
 
-##Authors
-
-#👤 Author1
+## 👤 Author
 
 GitHub: @OybekKayumov
 Twitter: @KayumovOybek
