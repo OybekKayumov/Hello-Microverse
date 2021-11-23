@@ -6,10 +6,12 @@
 ## Usage
 
 ## 👤 Author
-
+'''
 GitHub: @OybekKayumov
 Twitter: @KayumovOybek
 LinkedIn: [oybek-kayumov](https://www.linkedin.com/in/oybek-kayumov-54a8485b/)
+'''
+
 
 
 🤝 Contributing
