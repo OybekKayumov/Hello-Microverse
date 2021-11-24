@@ -4,7 +4,11 @@
 
 ## Getting Started
 
-to set this project up please run these commands: -`git clone git@github.com:OybekKayumov/Hello-Microverse.git` -`cd Hello-Microverse`
+to set this project up please run these commands:
+
+`git clone git@github.com:OybekKayumov/Hello-Microverse.git`
+
+`cd Hello-Microverse`
 
 ## 👤 Author
 
