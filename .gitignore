@@ -13,5 +13,5 @@ node_modules
 # Ignore SASS config files
 .sass-cache
 
-# Ignore VSCode config files
+# Ignore VSCode files
 .vscode
