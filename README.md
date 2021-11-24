@@ -1,10 +1,12 @@
 # Hello-Microverse
 
+> This is first project in the Module-1 to master the tools necessary which will be used in all future projects.
+
 ## Getting Started
 
-### Setup
-
-### Usage
+to set this project up please run these commands:
+`git clone git@github.com:OybekKayumov/Hello-Microverse.git`
+`cd Hello-Microverse`
 
 ## 👤 Author
 
