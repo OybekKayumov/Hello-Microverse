@@ -2,6 +2,13 @@
 
 > This is first project in the Module-1 to master the tools necessary which will be used in all future projects.
 
+![app-screenshot](./index.png)
+
+## Built With
+
+- HTML
+- CSS
+
 ## Getting Started
 
 to set this project up please run these commands:
